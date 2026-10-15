@@ -46,26 +46,26 @@
 |:---:|:---|:---|
 | ⚔️ | | 
 | 🏹 | |
-| 🛡️ | Gri$H@doW | 1800
-| 🔥 | EvGenx | 5500
+| 🛡️ | [Gri$H@doW] | 1800
+| 🔥 | [EvGenx](https://www.dotabuff.com/players/62877738) | 5500
 | ❤️‍🩹 | |
 
 ### 🧚‍♀️ TEAM B
 
 | № | Игрок | MMR
 |:---:|:---|:---|
-| ⚔️ | roolix | 3000
+| ⚔️ | [roolix]([https://www.dotabuff.com/players/79804794](https://www.dotabuff.com/players/160504018)) | 3500
 | 🏹 | |
 | 🛡️ | |
 | 🔥 | |
-| ❤️‍🩹 | BrackeT | 2000
+| ❤️‍🩹 | [BrackeT](https://www.dotabuff.com/players/81117431) | 2000
 
 ### 👰‍♀️ TEAM C
 
 | № | Игрок | MMR
 |:---:|:---|:---|
-| ⚔️ | Zaccone | 3000
-| 🏹 | jintous_k | 2000
+| ⚔️ | [Zaccone](https://www.dotabuff.com/players/57346674) | 3500
+| 🏹 | [lil bubi](https://www.dotabuff.com/players/109694355) | 2000
 | 🛡️ | |
 | 🔥 | |
 | ❤️‍🩹 | |
@@ -75,7 +75,7 @@
 | № | Игрок | MMR
 |:---:|:---|:---|
 | ⚔️ | |
-| 🏹 | flenronn | 5500
+| 🏹 | [flenronn](https://www.dotabuff.com/players/79804794) | 5500
 | 🛡️ | |
 | 🔥 | |
 | ❤️‍🩹 | |
