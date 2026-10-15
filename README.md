@@ -8,7 +8,7 @@
 
 Мы хотим разделить этот праздник с прекрасной половиной нашей прекрасной игры и приглашаем вас на **Grand Masters' of Game Cup #5**! 💐🎮
 
-[![CINEMATIC WARHAMMER, DOTA + TEASER GMG CUP, 1080p]](https://www.youtube.com/watch?v=dGuWKtrsGaA)
+https://www.youtube.com/watch?v=dGuWKtrsGaA
 
 ## 📜 Мандат Капитана
 
