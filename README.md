@@ -1,4 +1,4 @@
-# 🏆 Grand Masters' of Game Cup #5
+<h1 align="center"> 🏆 Grand Masters' of Game Cup #5 </h1>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dGuWKtrsGaA">
