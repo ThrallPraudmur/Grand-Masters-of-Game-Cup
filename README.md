@@ -46,7 +46,7 @@
 |:---:|:---|:---|
 | ⚔️ | | 
 | 🏹 | |
-| 🛡️ | [Gri$H@doW] | 1800
+| 🛡️ | [Gri$H@doW](https://www.dotabuff.com/players/45710020) | 1800
 | 🔥 | [EvGenx](https://www.dotabuff.com/players/62877738) | 5500
 | ❤️‍🩹 | |
 
