@@ -54,7 +54,7 @@
 
 | № | Игрок | MMR
 |:---:|:---|:---|
-| ⚔️ | [roolix]([https://www.dotabuff.com/players/79804794](https://www.dotabuff.com/players/160504018)) | 3500
+| ⚔️ | [roolix](https://www.dotabuff.com/players/79804794) | 3500
 | 🏹 | |
 | 🛡️ | |
 | 🔥 | |
