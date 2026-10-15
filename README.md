@@ -1,6 +1,8 @@
 # 🏆 Grand Masters' of Game Cup #5
 
-[![▶ Смотреть видео](https://img.youtube.com/vi/dGuWKtrsGaA/maxresdefault.jpg)](https://www.youtube.com/watch?v=dGuWKtrsGaA)
+<a href="https://www.youtube.com/watch?v=dGuWKtrsGaA">
+  <img src="https://img.youtube.com/vi/dGuWKtrsGaA/maxresdefault.jpg" width="400">
+</a>
 
 ## 🎉 18 лет нашей гильдии
 
