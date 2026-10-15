@@ -1,7 +1,7 @@
 # 🏆 Grand Masters' of Game Cup #5
 
 <p align="center">
-  <a href="ССЫЛКА_НА_ВИДЕО">
+  <a href="https://www.youtube.com/watch?v=dGuWKtrsGaA">
     <img src="assets/video-preview.png"
          alt="Смотреть синематик GmG — Итоги диктаторства"
          width="600">
