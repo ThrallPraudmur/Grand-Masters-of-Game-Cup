@@ -1,16 +1,12 @@
 # 🏆 Grand Masters' of Game Cup #5
 
-![Grand Masters of Game Cup #5](gmg-banner.png)
+[![▶ Смотреть видео](https://img.youtube.com/vi/dGuWKtrsGaA/maxresdefault.jpg)](https://www.youtube.com/watch?v=dGuWKtrsGaA)
 
 ## 🎉 18 лет нашей гильдии
 
 Как вы уже, вероятно, слышали, наша гильдия отмечает юбилей — вот уже **18 лет мы кошмарим наших врагов по всем фронтам!** ⚔️🔥
 
 Мы хотим разделить этот праздник с прекрасной половиной нашей прекрасной игры и приглашаем вас на **Grand Masters' of Game Cup #5**! 💐🎮
-
-
-https://www.youtube.com/watch?v=dGuWKtrsGaA
-
 
 ## 📜 Мандат Капитана
 
