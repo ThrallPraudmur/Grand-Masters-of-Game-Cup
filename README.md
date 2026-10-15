@@ -1,8 +1,16 @@
 # 🏆 Grand Masters' of Game Cup #5
 
-<a href="https://www.youtube.com/watch?v=dGuWKtrsGaA">
-  <img src="https://img.youtube.com/vi/dGuWKtrsGaA/maxresdefault.jpg" width="400">
-</a>
+<p align="center">
+  <a href="ССЫЛКА_НА_ВИДЕО">
+    <img src="assets/video-preview.png"
+         alt="Смотреть синематик GmG — Итоги диктаторства"
+         width="900">
+  </a>
+</p>
+
+<p align="center">
+  <b>▶ Нажмите на обложку, чтобы посмотреть видео</b>
+</p>
 
 ## 🎉 18 лет нашей гильдии
 
