@@ -93,7 +93,7 @@
 | 1 · ⚔️ | Керри |  | | 👸 |
 | 2 · 🏹 | Мидер | [lil bubi](https://www.dotabuff.com/players/109694355) | 2 000 | 🤴 |
 | 3 · 🛡️ | Офлейнер | [Zaccone](https://www.dotabuff.com/players/57346674) | 3 000 | 🤴 |
-| 4 · 🔥 | Саппорт | kriamant | 5000 | 👸 |
+| 4 · 🔥 | Саппорт | kriamant | 5 000 | 👸 |
 | 5 · ❤️‍🩹 | Полная поддержка | — | — | 👸 |
 
 ### 👸 TEAM D
