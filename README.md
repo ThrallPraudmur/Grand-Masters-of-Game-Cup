@@ -91,7 +91,7 @@
 | Позиция | Роль | Игрок | MMR | |
 | :---: | :--- | :--- | ---: | ---: |
 | 1 · ⚔️ | Керри |  | | 👸 |
-| 2 · 🏹 | Мидер | [lil bubi](https://www.dotabuff.com/players/109694355) | 2 000 | 🤴 |
+| 2 · 🏹 | Мидер | [lil bubi](https://www.dotabuff.com/players/109694355) | 2 000 | 🍼 |
 | 3 · 🛡️ | Офлейнер | [Zaccone](https://www.dotabuff.com/players/57346674) | 3 000 | 🤴 |
 | 4 · 🔥 | Саппорт | kriamant | 5 000 | 👸 |
 | 5 · ❤️‍🩹 | Полная поддержка | — | — | 👸 |
@@ -112,6 +112,9 @@
 
 ## 🟢 Обновления турнира
 
-- ✅ **w1spulya** приняла мандат.
-- ✅ **xxkoi__** предварительно приняла мандат.
-- ⏳ **leviamur** раздумывает над принятием мандата.
+- ⚠️ **lil bubi** was baby-borned, his participation in question!
+- ✅ **w1spulya** has accepted the mandate
+- ✅ **xxkoi__** has accepted the mandate for now
+- ⚠️ **leviamur** is still deciding
+- ✅ **kriamant** has received a direct invite
+- ✅ **49kamura** has received a direct invite
