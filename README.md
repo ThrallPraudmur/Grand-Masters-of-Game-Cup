@@ -119,3 +119,4 @@
 - ✅ **kriamant** has received a direct invite
 - ✅ **49kamura** has received a direct invite
 - ✅ **xxkoi__** leads TEAM C with **kimiyowaiu**, her sister-in-arms
+- ⚠️ **moonpr1ssm** is still deciding
