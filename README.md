@@ -72,37 +72,37 @@
 | :---: | :--- | :--- | ---: | ---: |
 | 1 · ⚔️ | Керри | — | — | 👸 |
 | 2 · 🏹 | Мидер | — | — | 👸 |
-| 3 · 🛡️ | Офлейнер | [Gri$H@doW](https://www.dotabuff.com/players/45710020) | 1 800 | 🤴 |
-| 4 · 🔥 | Саппорт | [EvGenx](https://www.dotabuff.com/players/62877738) | 5 000 | 🤴 |
+| 3 · 🛡️ | Оффлейнер | [Gri$H@doW](https://www.dotabuff.com/players/45710020) | 1 800 | 🤴 |
+| 4 · 🔥 | Саппорт | [EvGenx](https://www.dotabuff.com/players/62877738) | 5 500 | 🤴 |
 | 5 · ❤️‍🩹 | Полная поддержка | — | — | 👸 |
 
 ### 🧚‍♀️ TEAM B
 
 | Позиция | Роль | Игрок | MMR | |
 | :---: | :--- | :--- | ---: | ---: |
-| 1 · ⚔️ | Керри | [roolix](https://www.dotabuff.com/players/160504018) | 3 000 | 🤴 |
+| 1 · ⚔️ | Керри | [roolix](https://www.dotabuff.com/players/160504018) | 3 500 | 🤴 |
 | 2 · 🏹 | Мидер | — | — | 👸 |
-| 3 · 🛡️ | Офлейнер | — | — | 👸 |
-| 4 · 🔥 | Саппорт | — | — | 👸 |
+| 3 · 🛡️ | Оффлейнер | — | — | 👸 |
+| 4 · 🔥 | Саппорт | [kriamant](https://www.dotabuff.com/players/917400483 | 2 500 | 👸 |
 | 5 · ❤️‍🩹 | Полная поддержка | [BrackeT](https://www.dotabuff.com/players/81117431) | 2 000 | 🤴 |
 
-### 👰‍♀️ TEAM C
+### 👰‍♀️ TEAM XXKOI__
 
 | Позиция | Роль | Игрок | MMR | |
 | :---: | :--- | :--- | ---: | ---: |
-| 1 · ⚔️ | Керри |  | | 👸 |
+| 1 · ⚔️ | Керри | xxkoi__ | | 👸 |
 | 2 · 🏹 | Мидер | [lil bubi](https://www.dotabuff.com/players/109694355) | 2 000 | 🍼 |
-| 3 · 🛡️ | Офлейнер | [Zaccone](https://www.dotabuff.com/players/57346674) | 3 000 | 🤴 |
-| 4 · 🔥 | Саппорт | [kriamant](https://www.dotabuff.com/players/917400483) | 2 500 | 👸 |
-| 5 · ❤️‍🩹 | Полная поддержка | — | — | 👸 |
+| 3 · 🛡️ | Оффлейнер | [Zaccone](https://www.dotabuff.com/players/57346674) | 3 000 | 🤴 |
+| 4 · 🔥 | Саппорт |  | | 👸 |
+| 5 · ❤️‍🩹 | Полная поддержка | kimiyowaiu | — | 👸 |
 
 ### 👸 TEAM D
 
 | Позиция | Роль | Игрок | MMR | |
 | :---: | :--- | :--- | ---: | ---: |
 | 1 · ⚔️ | Керри | — | — | 👸 |
-| 2 · 🏹 | Мидер | [flenronn](https://www.dotabuff.com/players/79804794) | 5 000 |🤴| 
-| 3 · 🛡️ | Офлейнер | — | — | 👸 |
+| 2 · 🏹 | Мидер | [flenronn](https://www.dotabuff.com/players/79804794) | 5 500 |🤴| 
+| 3 · 🛡️ | Оффлейнер | — | — | 👸 |
 | 4 · 🔥 | Саппорт | — | — | 👸 |
 | 5 · ❤️‍🩹 | Полная поддержка | — | — | 👸 |
 
@@ -118,3 +118,4 @@
 - ⚠️ **leviamur** is still deciding
 - ✅ **kriamant** has received a direct invite
 - ✅ **49kamura** has received a direct invite
+- ✅ **xxkoi__** leads TEAM C with **kimiyowaiu**, her sister-in-arms
