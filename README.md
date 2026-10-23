@@ -83,7 +83,7 @@
 | 1 · ⚔️ | Керри | [roolix](https://www.dotabuff.com/players/160504018) | 3 500 | 🤴 |
 | 2 · 🏹 | Мидер | — | — | 👸 |
 | 3 · 🛡️ | Оффлейнер | — | — | 👸 |
-| 4 · 🔥 | Саппорт | [kriamant](https://www.dotabuff.com/players/917400483 | 2 500 | 👸 |
+| 4 · 🔥 | Саппорт | [kriamant](https://www.dotabuff.com/players/917400483) | 2 500 | 👸 |
 | 5 · ❤️‍🩹 | Полная поддержка | [BrackeT](https://www.dotabuff.com/players/81117431) | 2 000 | 🤴 |
 
 ### 👰‍♀️ TEAM XXKOI__
